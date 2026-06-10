@@ -1,4 +1,4 @@
-# 
+# Ultimato PantheonOS predefinições. Com integração de chatbot e aprendizado por transferência — otimizado para máximo desempenho.
 
 
 
